@@ -16,7 +16,7 @@ You will also see any lint errors in the console.
 
 ### `npm run serve`
 
-**Note: this has to executed alongside start to fetch data into the UI**
+**Note: this has to executed alongside `npm start` to fetch data into the UI**
 
 Starts a mock backend with a default data set which supports basic crud operations.\
 Open [http://localhost:5200](http://localhost:5200) to view/perform crud operations.
